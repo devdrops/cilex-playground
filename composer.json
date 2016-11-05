@@ -1,0 +1,12 @@
+{
+    "name": "devdrops/cilex",
+    "require": {
+        "cilex/cilex": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Davi Marcondes Moreira",
+            "email": "davi.marcondes.moreira@gmail.com"
+        }
+    ]
+}
